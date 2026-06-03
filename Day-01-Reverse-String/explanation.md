@@ -70,14 +70,14 @@ Start from the last character and move backwards.
 
 For "hello":
 
-text
+text:
 h e l l o
 0 1 2 3 4
 
 
 Characters are added one by one:
 
-text
+text:
 o
 ol
 oll
