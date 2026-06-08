@@ -7,3 +7,4 @@ JavaScript problem-solving practice with detailed explanation, concepts, and sol
 - Day 3: Palindrome Check
 - Day 4: Find Largest Number in an Array
 - Day 5: Sum of All Numbers in an Array
+- Day 6: Count Even Numbers in an Array
