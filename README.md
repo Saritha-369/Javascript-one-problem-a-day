@@ -10,3 +10,4 @@ JavaScript problem-solving practice with detailed explanation, concepts, and sol
 - Day 6: Count Even Numbers in an Array
 - Day 7: Find Smallest Number in an Array
 - Day 8: Count the Number of Properties in an Object
+- Day 9: Check if an Array Contains Duplicates
